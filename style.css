@@ -1,0 +1,9 @@
+body {
+    width: 100%;
+    background: linear-gradient(rgba(155, 229, 223, 0.95), rgba(179, 221, 208, 0.95));
+    padding: 45px;
+}
+
+.font-medium {
+    font-size: 22px;
+}
